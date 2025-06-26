@@ -11,7 +11,7 @@ Este projeto é um chat simples desenvolvido em Python utilizando a biblioteca *
 
 ## 📁 Requisitos
 
-- Python 3.x
+- Python 3.13
 - Bibliotecas:
   - `flet`
 
