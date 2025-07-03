@@ -1,7 +1,9 @@
 # Chat em Python com Flet 🚀💬
 
 Este projeto é um chat simples desenvolvido em Python utilizando a biblioteca **Flet**. Ele permite que usuários enviem mensagens em tempo real em uma interface gráfica interativa.
-Projeto baseado em curso da hashtag treinamentos.
+Projeto baseado em curso da hashtag treinamentos com mudanças gráficas como:
+- Container de mensagens para quem envia e quem recebe aparecendo em lados opostos.
+- Ícone de notificação para quem entra no chat alterado.
 
 ## 💡 Funcionalidades
 
